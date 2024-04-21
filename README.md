@@ -1,6 +1,6 @@
 # DesafioTarget
 1) 12
-2)```
+2)    ```
     #include <stdio.h>
     int verificaFibonacci(int num){
         int a = 0, b = 1, c;
@@ -26,7 +26,7 @@
             printf("%d não pertence à sequência de Fibonacci.", num);  
         return 0;
     }
-   ```                
+       ```                
 3) 
   a) 9
   b) 128
@@ -42,7 +42,7 @@
     Se não estiver quente nem acesa, pertence ao terceiro interruptor. 
   Repetindo a mesma lógica de eliminação para a próxima (segunda) lâmpada, posso descobrir qual o é o seu interruptor e também o interruptor da terceira lampada sem nem mesmo vê-la.
 
-5)     
+5)     ```
           import java.util.Scanner;
         
           public class Main
@@ -67,5 +67,6 @@
           }
           String stringInvertida = new String(charArray);
           System.out.println("String invertida: " + stringInvertida);
+              }
           }
-      }
+    ```
